@@ -1,4 +1,4 @@
-<h1 align="center">Sun Glass Store </h1>
+<h1 align="center">Simple Responsive site</h1>
 
 ## Built With
 
