@@ -13,7 +13,7 @@
 - HTML & CSS 
 
 **Jobair Hossain Tamim**
-[LiveSite](https://glass-shop-1cdc0.web.app/ "Jobair Hossain")
+[LiveSite](https://simple-html-site-css.netlify.app/ "Jobair Hossain")
 ## 🤝 Support
 
 Contributions, issues, and feature requests are welcome!
